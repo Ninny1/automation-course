@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="activation">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jars/mail-20230130T181057Z-001/mail/activation.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/mail-20230130T181057Z-001/mail/dsn.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/mail-20230130T181057Z-001/mail/imap.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/mail-20230130T181057Z-001/mail/mail.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/mail-20230130T181057Z-001/mail/mailapi.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/mail-20230130T181057Z-001/mail/pop3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/mail-20230130T181057Z-001/mail/smtp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

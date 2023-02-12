@@ -1,0 +1,71 @@
+<component name="libraryTable">
+  <library name="async-http-client-2.12.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/async-http-client-2.12.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/async-http-client-netty-utils-2.12.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/auto-common-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/auto-service-1.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/auto-service-annotations-1.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/byte-buddy-1.12.10.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/checker-qual-3.12.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/commons-exec-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/error_prone_annotations-2.11.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/failsafe-3.2.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/failureaccess-1.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/guava-31.1-jre.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/j2objc-annotations-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/jakarta.activation-1.2.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/jcommander-1.82.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/jsr305-3.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/jtoml-2.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/netty-buffer-4.1.78.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/netty-codec-4.1.78.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/netty-codec-http-4.1.78.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/netty-codec-socks-4.1.60.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/netty-common-4.1.78.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/netty-handler-4.1.78.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/netty-handler-proxy-4.1.60.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/netty-reactive-streams-2.0.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/netty-resolver-4.1.78.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/netty-transport-4.1.78.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/netty-transport-classes-epoll-4.1.78.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/netty-transport-classes-kqueue-4.1.78.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/netty-transport-native-unix-common-4.1.78.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/ngwebdriver-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/opentelemetry-api-1.15.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/opentelemetry-context-1.15.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/opentelemetry-exporter-logging-1.15.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/opentelemetry-sdk-1.15.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/opentelemetry-sdk-common-1.15.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/opentelemetry-sdk-extension-autoconfigure-1.15.0-alpha.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/opentelemetry-sdk-extension-autoconfigure-spi-1.15.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/opentelemetry-sdk-logs-1.15.0-alpha.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/opentelemetry-sdk-metrics-1.15.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/opentelemetry-sdk-trace-1.15.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/opentelemetry-semconv-1.15.0-alpha.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/reactive-streams-1.0.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/selenium-api-4.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/selenium-chrome-driver-4.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/selenium-chromium-driver-4.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/selenium-devtools-v85-4.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/selenium-devtools-v101-4.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/selenium-devtools-v102-4.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/selenium-devtools-v103-4.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/selenium-edge-driver-4.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/selenium-firefox-driver-4.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/selenium-http-4.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/selenium-ie-driver-4.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/selenium-java-4.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/selenium-json-4.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/selenium-opera-driver-4.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/selenium-remote-driver-4.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/selenium-safari-driver-4.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/selenium-support-4.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jar_files/slf4j-api-1.7.30.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
