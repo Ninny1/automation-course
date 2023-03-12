@@ -3,6 +3,7 @@ package com.junit;
 import org.junit.jupiter.api.*;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -17,7 +18,12 @@ public class nutritionCaloriesExRun {
 
     @BeforeAll
     public static void beforeAll() {
-        driver = new ChromeDriver();
+        System.setProperty("webdriver.chrome.driver","C:\\webdriver\\chromedriver.exe");
+
+        ChromeOptions options = new ChromeOptions();
+        options.addArguments("--remote-allow-origins=*");
+
+        driver = new ChromeDriver(options);
         driver.manage().window().maximize();
         driver.get("http://www.netogreen.co.il/Calculators/Nutrition-Calories.aspx");
         elements = PageFactory.initElements(driver, NutritionCaloriesEx_elements.class);
