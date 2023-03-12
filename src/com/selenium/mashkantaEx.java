@@ -2,6 +2,7 @@ package com.selenium;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.interactions.Actions;
 
 import java.util.List;
@@ -9,8 +10,12 @@ import java.util.List;
 public class mashkantaEx {
 
     public static void main(String[] args) throws InterruptedException {
+        System.setProperty("webdriver.chrome.driver","C:\\webdriver\\chromedriver.exe");
 
-        WebDriver driver = new ChromeDriver();
+        ChromeOptions options = new ChromeOptions();
+        options.addArguments("--remote-allow-origins=*");
+
+        WebDriver driver = new ChromeDriver(options);
         driver.manage().window().maximize();
         driver.get("https://www.supermarker.themarker.com/");
 

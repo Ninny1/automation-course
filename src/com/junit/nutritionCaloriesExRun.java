@@ -13,7 +13,7 @@ import java.time.Duration;
 public class nutritionCaloriesExRun {
     static WebDriver driver;
     static NutritionCaloriesEx_elements elements = new NutritionCaloriesEx_elements();
-     WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
+    WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
 
     @BeforeAll
     public static void beforeAll() {

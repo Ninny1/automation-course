@@ -33,8 +33,6 @@
     </orderEntry>
     <orderEntry type="library" exported="" name="selenium-java-4.6" level="project" />
     <orderEntry type="library" exported="" name="async-http-client-2.12.32" level="project" />
-    <orderEntry type="module" module-name="webdriver" exported="" />
-    <orderEntry type="library" exported="" name="webdriver" level="application" />
     <orderEntry type="module-library" exported="">
       <library name="JUnit5.8.1">
         <CLASSES>
@@ -51,5 +49,8 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="extentreports-5.0.9" level="project" />
+    <orderEntry type="library" name="extentreports-3.0.3" level="project" />
+    <orderEntry type="library" exported="" name="webdriver" level="application" />
   </component>
 </module>
