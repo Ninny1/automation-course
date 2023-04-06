@@ -1,0 +1,5 @@
+username,password,result
+admin,12345,FALSE
+admin,pass,pass
+admin, ,
+admin,admin,pass
